@@ -17,7 +17,7 @@
 <!-- Light mode: theme=light, Dark mode: theme=dark -->
 <!-- List of icon options: https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,r,bash,mysql,docker,linux,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,python,r,bash,mysql,git,docker,linux,aws,gcp,azure" />
 <br>
 
 
