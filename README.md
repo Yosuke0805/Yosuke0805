@@ -9,8 +9,8 @@
 
 - 🧑‍💻 I'm a Data Scientist/Machine Learning Engineer.
 - 🌱 I'm currently learning Kubernetes!
-- 📫 How to reach me: LinkedIn:  - [Yosuke(Daniel) Kawazoe](http://linkedin.com/in/yosuke-kawazoe-8782b218b)
-- 📱 My portfolio: - [Portfolio](https://yosukeportfolio.streamlit.app/)
+- 📫 How to reach me: :  - [My LinkedIn](http://linkedin.com/in/yosuke-kawazoe-8782b218b)
+- 📱 My portfolio: - [My Portfolio](https://yosukeportfolio.streamlit.app/)
 <br>
 
 
